@@ -1,4 +1,3 @@
-![logo](https://github.com/AdityaKMishra01/AdityaKMishra01/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.png)
 <h1 align="center">Hello 👋, I'm Aditya Kumar Mishra</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif">
