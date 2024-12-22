@@ -3,9 +3,6 @@
   <a href="https://www.linkedin.com/in/adityakmishra01/">
     <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
-  <a href="mailto:adityamishra1872@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" />
-  </a>
   <a href="https://discordapp.com/users/imwoodyy">
     <img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" />
   </a>
@@ -16,7 +13,7 @@
 <div align="left">
    
 - 🌱 I’m a **Full Stack Developer**, currently learning **React Native** and working on a **Payment Gateway System**.  
-- 🚀 Passionate about **Hackathons** and **Open-Source Development**.  
+- 🚀 Excited to explore **Hackathons** and contribute to **Open-Source Development**.  
 - 🔥 Completed projects like **FUNart** (deployed at [funart-rouge.vercel.app](https://funart-rouge.vercel.app)) and a **Virtual Herbal Garden** with interactive 3D models.  
 - 💡 Always open to collaborating on **MERN Stack Projects**.  
 
@@ -47,5 +44,4 @@
 <div align="center">
   <h1>📈 GitHub Stats</h1>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityakmishra01&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=adityakmishra01&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
