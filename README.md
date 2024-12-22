@@ -6,7 +6,7 @@
   <a href="mailto:adityamishra1872@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" />
   </a>
-  <a href="https://discordapp.com/users/your-discord-id">
+  <a href="https://discordapp.com/users/imwoodyy">
     <img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" />
   </a>
 </div>
