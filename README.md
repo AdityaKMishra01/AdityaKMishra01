@@ -12,7 +12,7 @@
 
 <div align="left">
    
-- 🌱 I’m a **Full Stack Developer**, currently learning **React Native** and working on a **Payment Gateway System**.  
+- 🌱 I’m a **Full Stack Developer**, currently learning **React Native**.  
 - 🚀 Excited to explore **Hackathons** and contribute to **Open-Source Development**.  
 - 🔥 Completed projects like **FUNart** (deployed at [funart-rouge.vercel.app](https://funart-rouge.vercel.app)) and a **Virtual Herbal Garden** with interactive 3D models.  
 - 💡 Always open to collaborating on **MERN Stack Projects**.  
